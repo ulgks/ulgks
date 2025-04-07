@@ -1,4 +1,4 @@
-## Hi there 👋
+## Opa, tudo bem 👋
 
 - 🔭 Atualmente eu não estou trabalhando
 - 🌱 Eu estou aprendendo sobre React
