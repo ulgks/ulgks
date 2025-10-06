@@ -1,6 +1,6 @@
-## Opa, tudo bem 👋
+# Opa, tudo bem 👋
 
-# Alguma coisas sobre mim:
+### Alguma coisas sobre mim:
 - 🔭 Atualmente eu não estou trabalhando.
 - 🌱 Eu estou aprendendo Full Stack nos cursos da Rocketseat.
 - ⚡ Fun fact: Já criava algumas coisas em outras linguagens de programação, como jogos de texto em python e sites em html e css.
